@@ -13,4 +13,6 @@ To use this module, proceed as follows:
 
 1. Configure SAP's GetPayloadValueBean in the module chain prior to the call-sap-adapter module. See this blog for the module parameters: http://scn.sap.com/community/pi-and-soa-middleware/blog/2013/03/20/insert-value-from-request-message-to-response-using-getpayloadvaluebean-and-putpayloadvaluebean
 2. Configure this PI_PutPayloadValueBean after the call-sap-adapter module but before the ResponseOnewayBean (if using a async/sync bridge, which is most likely if you're looking at this module)
-3. Set module parameters as: 
+3. Set module parameters as: fieldName : \<ELEMENT NAME YOU WANT TO USE\>, fieldVar : \<THE VARIABLE NAME USED IN GETPAYLOADVALUEBEAN\>
+ 
+
