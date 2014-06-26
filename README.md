@@ -17,3 +17,5 @@ To use this module, proceed as follows:
  
 
 ![image](https://cloud.githubusercontent.com/assets/1317161/3394727/86e69e82-fce9-11e3-89fe-6aa71628dd4d.png)
+
+When building this project in NWDS you will need an EAR application. See my PI\_PutPayloadValueBean\_App repo for a sample.
