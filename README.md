@@ -16,3 +16,4 @@ To use this module, proceed as follows:
 3. Set module parameters as: fieldName : \<ELEMENT NAME YOU WANT TO USE\>, fieldVar : \<THE VARIABLE NAME USED IN GETPAYLOADVALUEBEAN\>
  
 
+![image](https://cloud.githubusercontent.com/assets/1317161/3394727/86e69e82-fce9-11e3-89fe-6aa71628dd4d.png)
